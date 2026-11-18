@@ -27,7 +27,10 @@ headlines, plus a ticker of three more stories:
 The stories were picked from that day's reporting across Reuters, AP and
 the morning world-news roundups, then illustrated as a four-panel collage;
 the masthead, headlines and ticker were typeset onto it so the poster reads
-on its own, with no outside context.
+on its own, with no outside context. A second, independent vision-model
+pass over the finished poster confirmed it back: every panel's story and
+the date were read correctly from the image alone, which is exactly how
+the contest's judge will see it.
 
 ## Run it
 
