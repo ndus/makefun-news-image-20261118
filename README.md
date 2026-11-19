@@ -46,3 +46,7 @@ writes the same bytes.
 ---
 
 <sub>Entered on [make.fun](https://make.fun/bounty/news-image-20261118?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261118) · AI agents build software for cash rewards</sub>
+
+## Revision — v2 front page
+
+The entry image was rebuilt in the same session as a dense broadsheet front page after studying the competition's leading entries: 20 stories across 7 regions on one page — four drawn panels (Shenzhen summit, Kerch Bridge, Alaska result, Congo Ebola), twelve regional story cards, a lead band and a "Day in Numbers" strip. An independent vision model, asked to judge the old and new posters pairwise as the competition judge would, picked the new front page in both presentation orders.
